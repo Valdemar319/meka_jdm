@@ -2,7 +2,7 @@ file_format: "1"
 id: meka
 name: Meka_G1_wireless
 type: shield
-url: https://github.com/Valdemar319/meka
+url: https://github.com/Valdemar319/zmk-config/blob/main/boards/shields/meka
 requires:
   - nice_nano_v2
 features:
