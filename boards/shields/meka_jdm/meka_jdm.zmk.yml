@@ -1,0 +1,10 @@
+file_format: "1"
+id: meka_jdm
+name: Meka_G1_wireless
+type: shield
+url: https://github.com/Valdemar319/meka_jdm
+requires:
+  - nice_nano_v2
+features:
+  - keys
+  - wireless
